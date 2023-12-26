@@ -39,7 +39,7 @@
 <body>
     <div class="container">
         <div class="box_of_but">
-            <form action="Student.php" method="get">
+            <form action="student.php" method="get">
                 <button type="submit" class="btn m-1 btn-outline-dark">Student</button>
             </form>
             <form action="sign_in.php" method="get">
